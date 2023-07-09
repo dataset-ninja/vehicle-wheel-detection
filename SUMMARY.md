@@ -4,6 +4,6 @@ The dataset consists of 675 images with 2993 labeled objects belonging to 8 diff
 
 Images in the Vehicle Wheel Detection dataset have bounding box annotations. There are 6 (1% of the total) unlabeled images (i.e. without annotations). There is 1 split in the dataset: *ds* (675 images). The dataset was released in 2023 by the [Data Cluster Labs](http://www.datacluster.ai).
 
-Here are the visualized examples for each of the 8 classes:
+Here is the visualized example grid with annotations:
 
-[Dataset classes](https://github.com/dataset-ninja/vehicle-wheel-detection/raw/main/visualizations/classes_preview.webm)
+<img src="https://github.com/dataset-ninja/vehicle-wheel-detection/raw/main/visualizations/horizontal_grid.png">
