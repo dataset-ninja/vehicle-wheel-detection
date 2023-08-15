@@ -9,4 +9,4 @@ If you make use of the Vehicle Wheel Detection data, please cite the following r
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/dataclusterlabs/vehicle-wheel-detection)
+[Source](https://www.kaggle.com/datasets/dataclusterlabs/vehicle-wheel-detection)
