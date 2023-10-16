@@ -1,6 +1,6 @@
 Dataset **Vehicle Wheel Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/R/b/6b/qX2jLzjssouglwvSiLOUSoA8VYUaPEKEQXPuS60X9h7LtVJZPIiFWyBkf2Oyvd75ofp1uAPl1V1mZxMJYy95xPCn9hNDyzpVFxduChwFXsiYMorbajyCDnN83m1m.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/b/4/28/nKbNpIfCDH5CqcJH0IBAQsobaR7FjHpIwnPnlkMO5uIwbrwkeswwSrx8BIt0WsD0VxWBk2DtnMsvzFDWoGATZfnKseHdpYmDZUgHFcli9iOU45ReGeECEJef5qRg.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
